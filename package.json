@@ -8,5 +8,8 @@
   },
   "keywords": [],
   "author": "Atef Ben Ali <atef.bettaib@gmail.com> (https://github.com/atefBB)",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^4.6.2"
+  }
 }
