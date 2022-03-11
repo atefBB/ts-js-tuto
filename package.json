@@ -1,0 +1,12 @@
+{
+  "name": "ts-tuto",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node ./src/index.js"
+  },
+  "keywords": [],
+  "author": "Atef Ben Ali <atef.bettaib@gmail.com> (https://github.com/atefBB)",
+  "license": "ISC"
+}
