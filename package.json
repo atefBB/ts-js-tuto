@@ -4,7 +4,9 @@
   "description": "",
   "main": "src/index.js",
   "scripts": {
-    "start": "node ./src/index.js"
+    "prestart": "rm -fr build && yarn build",
+    "start": "node ./build/index.js",
+    "build": "tsc"
   },
   "keywords": [],
   "author": "Atef Ben Ali <atef.bettaib@gmail.com> (https://github.com/atefBB)",
